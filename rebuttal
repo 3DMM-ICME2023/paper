@@ -29,7 +29,7 @@ solve the online action recognition. However, our method is able to conduct onli
 We will add discussion about utilizing our method for online action recognition in the camera-ready paper.
 
 
-############## 下面是针对第二个评审人的rebuttal, review2貌似没看懂文章，不知道文章的contribution在哪儿，所以他提的每个问题都要辩驳，
+############## 下面是针对第二个评审人的rebuttal, review2没看懂文章，不知道文章的contribution在哪儿，所以他提的每个问题都要辩驳，
 ############## 当然，如果真是我们的错误，也要承诺改正。还好reviewer2提的问题基本上可以在文章中找到相应的解释，我们并不理亏。
 ############## 都先感谢下他提的问题，然后指出reviewer误会的地方，也可以强硬些，比如：
 ############## we think that the reviewer may leave out part information of our paper.但上面那句话老师们都觉得过分，
@@ -44,8 +44,8 @@ More importantly, our network is trained with S clips’ aggregated scores.
 Thus, feeding S clips into the network is suitable to capture the feature of video. 
 As a result, our method can obtain a higher accuracy at a faster speed than the existing 3D CNNs. 
  
-############## Q1是比较关键的，在解释贡献，reviewer2选的是knowledgeable不是expert,说明他可能不是十分懂这个领域，
-############## 所以就简单明白地解释贡献，先总说一下贡献，再详细阐述每点的贡献。
+############## Q1是比较关键的，要解释贡献，reviewer2选的是knowledgeable不是expert,说明他可能不是十分懂这个领域，
+############## 所以就简单明白地解释贡献，别照抄paper中总结的贡献，先总说一下贡献，再详细阐述每点的贡献。
 C3 and Q1 (abbr. for Question): the main contribution only is RGB input.
 Thanks sincerely for the question. However, the reviewer may have some misunderstandings about our contributions. 
 I hope to make the contributions clearer as below. First, RGB input is definitely not our contribution. 
