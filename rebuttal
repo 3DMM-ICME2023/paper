@@ -1,8 +1,9 @@
 ############## 两位评审人的意见在下面的连接中可以看到，粘到这里不太清晰 ##########################
-
-
+https://github.com/liu666666/paper/blob/master/Reviews.pdf
+概括下，两位评审人评分的情况是reviewer1接受（4分），reviewer2 拒绝（-2分），评分的区间是-5到5，总体上不乐观
 ############## 下面是自己针对两位评审人意见的一个rebuttal ###########################
-
+ 
+##### 首先感谢评审人，然后总结下两个评审人对自己工作的证明评价，最后结论是reviewer1提的建议很好，我们会改正。reviewer2理解错了我们的文章
 We thank all reviewers for the insightful comments and suggestions. We appreciate the positive comments on
 1) the technically sound method that achieves close accuracy to the state-of-the-art methods in an extremely fast speed, 
 2) very thorough experimental evaluation, 3) very clearly written and thoroughly convincing of this paper, 
